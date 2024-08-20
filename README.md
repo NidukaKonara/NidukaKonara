@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Niduka D. Konara</h1>
-- 🌱 I’m currently learning **React JS**
+<h1 align="center">Hi 👋, I'm Niduka Konara</h1>
 
 - 📫 How to reach me **dulanjaleeniduka@gmail.com**
 
